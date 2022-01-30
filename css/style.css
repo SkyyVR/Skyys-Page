@@ -9,10 +9,10 @@ body {
 	background-color: #691196 
 }
 .monk {
-	width: 200px;
+	width: 100px;
 	
 }
 
 .monk-container {
-	align-content: center
+	text-align: center
 }
