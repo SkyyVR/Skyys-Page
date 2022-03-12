@@ -48,7 +48,7 @@ body {
 
 .body {
   position: relative;
-  font-family: sans-serif;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" ;
   font-size: 2em;
   letter-spacing: 4px;
   overflow: hidden;
